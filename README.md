@@ -56,6 +56,12 @@ http://unlicense.org/
 
 ## Tests
 
+### Install jest
+
+	npm install jest
+
+### Tests
+
 	employee.test.js
 	engineer.test.js
 	intern.test.js
