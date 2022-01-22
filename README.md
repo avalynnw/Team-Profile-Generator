@@ -2,7 +2,7 @@
 
 ## Description
 
-This program is desinged to generate an htmml page based on user input through a command line in order to create a team profile.
+This program is desinged to generate an html page based on user input through a command line in order to create a team profile.
 
 ## Table of Contents
 
