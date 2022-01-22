@@ -34,6 +34,10 @@ Run the program from the root directory using:
  and fill out the prompts to generate the html file to the /dist directory.
 
 
+## [Deployed Site](https://avalynnw.github.io/Team-Profile-Generator/)
+
+[I'm an inline-style link](https://www.google.com)
+
 ![generated html file](./Assets/images/html_file.png)
 
 ## Contributing
