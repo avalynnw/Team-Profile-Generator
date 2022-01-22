@@ -56,11 +56,11 @@ http://unlicense.org/
 
 ## Tests
 
-### Install jest
+Install jest
 
 	npm install jest
 
-### Tests
+Class Tests
 
 	employee.test.js
 	engineer.test.js
