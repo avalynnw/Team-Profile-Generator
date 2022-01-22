@@ -33,9 +33,9 @@ Run the program from the root directory using:
 
  and fill out the prompts to generate the html file to the /dist directory.
 
-## [Walkthrough Video](https://watch.screencastify.com/v/eRDheZwRLxNK7rGmTSud)
+# [Walkthrough Video](https://watch.screencastify.com/v/eRDheZwRLxNK7rGmTSud)
 
-## [Deployed Site](https://avalynnw.github.io/Team-Profile-Generator/)
+# [Deployed Site](https://avalynnw.github.io/Team-Profile-Generator/)
 
 ![generated html file](./Assets/images/html_file.png)
 
