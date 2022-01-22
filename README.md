@@ -37,7 +37,7 @@ Run the program from the root directory using:
 
 	npm run test
 
-![generated html file](./assets/images/html_file.png)
+![generated html file](./Assets/images/html_file.png)
 
 ## Contributing
 
