@@ -29,11 +29,11 @@ function generateHtml(manager_list, engineer_list, intern_list) {
         html_string += `\t	<div class="col-sm-4">
         <div class="card mt-2 mb-3">
         <div class="card-header">
-            Manager: ${element.name}
+        &#128868 Manager: ${element.name}
         </div>
         <div class="card-body">
             <ul class="list-group list-group-flush">
-                <li class="list-group-item">ID: ${element.id}</li>
+                <li class="list-group-item">Employee ID: ${element.id}</li>
                 <li class="list-group-item">Email: <a href = "mailto: ${element.email}">${element.email}</a></li>
                 <li class="list-group-item">Office Number: ${element.office_number}</li>
               </ul>
@@ -47,11 +47,11 @@ function generateHtml(manager_list, engineer_list, intern_list) {
         html_string +=`\t<div class="col-sm-4">
         <div class="card mt-2 mb-3">
             <div class="card-header">
-                Engineer: ${element.name}
+            &#9791 Engineer: ${element.name}
             </div>
             <div class="card-body">
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">ID: ${element.id}</li>
+                    <li class="list-group-item">Employee ID: ${element.id}</li>
                     <li class="list-group-item">Email: <a href = "mailto: ${element.email}">${element.email}</a></li>
                     <li class="list-group-item">GitHub: <a href="https://github.com/${element.github}" target="blank">${element.github}</a></li>
                   </ul>
@@ -67,11 +67,11 @@ function generateHtml(manager_list, engineer_list, intern_list) {
         html_string +=`\t<div class="col-sm-4">
         <div class="card mt-2 mb-3">
             <div class="card-header">
-                Intern: ${element.name}
+            &#x1f312 Intern: ${element.name}
             </div>
             <div class="card-body">
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item">ID: ${element.id}</li>
+                    <li class="list-group-item">Employee ID: ${element.id}</li>
                     <li class="list-group-item">Email: <a href = "mailto: ${element.email}">${element.email}</a></li>
                     <li class="list-group-item">School: ${element.school}</li>
                   </ul>

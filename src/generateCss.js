@@ -15,6 +15,7 @@ function generateCss() {
     }
     a {
         color:rgb(65, 141, 255);
+        text-decoration:none;
     }
     
     body {
