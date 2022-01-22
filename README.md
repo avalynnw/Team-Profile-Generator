@@ -1,4 +1,4 @@
-# Professional README Generator
+# Team Profile Generator
 
 ## Description
 
