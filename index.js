@@ -22,7 +22,7 @@ function writeToFile(fileName, data) {
 
 
 
-
+// Question lists
 const manager_questions = [ 
     { 
         type: 'input',
