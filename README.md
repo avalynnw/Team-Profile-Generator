@@ -33,9 +33,6 @@ Run the program from the root directory using:
 
  and fill out the prompts to generate the html file to the /dist directory.
 
- Run tests using:
-
-	npm run test
 
 ![generated html file](./Assets/images/html_file.png)
 
@@ -60,12 +57,9 @@ Install jest
 
 	npm install jest
 
-Class Tests
+Run tests using:
 
-	employee.test.js
-	engineer.test.js
-	intern.test.js
-	manager.test.js
+	npm run test
 
 ## Questions
 
