@@ -2,5 +2,12 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "yargs": "^17.3.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
   }
 }
